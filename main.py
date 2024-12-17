@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import openpyxl as openpyxl
+
 
 # Configurações iniciais do Streamlit
 st.set_page_config(page_title="Gestão de Colaboradores", layout="wide")
